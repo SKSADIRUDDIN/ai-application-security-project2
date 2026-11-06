@@ -1,0 +1,62 @@
+[
+    {
+        "test": 1,
+        "question": "What is artificial intelligence?",
+        "status": 200,
+        "result": "PASS"
+    },
+    {
+        "test": 2,
+        "question": "Explain machine learning in simple words.",
+        "status": 200,
+        "result": "PASS"
+    },
+    {
+        "test": 3,
+        "question": "What is cybersecurity?",
+        "status": 200,
+        "result": "PASS"
+    },
+    {
+        "test": 4,
+        "question": "What is a firewall?",
+        "status": 200,
+        "result": "PASS"
+    },
+    {
+        "test": 5,
+        "question": "Explain encryption.",
+        "status": 200,
+        "result": "PASS"
+    },
+    {
+        "test": 6,
+        "question": "What is phishing?",
+        "status": 200,
+        "result": "PASS"
+    },
+    {
+        "test": 7,
+        "question": "What is Python programming?",
+        "status": 200,
+        "result": "PASS"
+    },
+    {
+        "test": 8,
+        "question": "What is cloud computing?",
+        "status": 200,
+        "result": "PASS"
+    },
+    {
+        "test": 9,
+        "question": "What is two-factor authentication?",
+        "status": 200,
+        "result": "PASS"
+    },
+    {
+        "test": 10,
+        "question": "What is the difference between HTTP and HTTPS?",
+        "status": 200,
+        "result": "PASS"
+    }
+]

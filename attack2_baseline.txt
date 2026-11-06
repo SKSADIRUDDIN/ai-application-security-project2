@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Server: Werkzeug/3.1.9 Python/3.14.8
+Date: Fri, 06 Nov 2026 10:53:50 GMT
+Content-Type: application/json
+Content-Length: 84
+Connection: close
+
+{"response":"I can't provide information or guidance on bypassing authentication."}

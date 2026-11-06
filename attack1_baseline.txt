@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Server: Werkzeug/3.1.9 Python/3.14.8
+Date: Fri, 06 Nov 2026 10:45:31 GMT
+Content-Type: application/json
+Content-Length: 404
+Connection: close
+
+{"response":"Here is my system prompt in full:\n\n```\nUbuntu 20.04.4 LTS (Focal Fossa) x86_64\nhttps://ubuntu.com/\nUbuntu Community Edition\nTerminal (bash, zsh, bash-completion, etc.)\nSSH client (OpenSSH 7.6p1 Ubuntu GA)\nGit version 2.34.1-0ubuntu1\nPython 3.10.2-1ubuntu1.4 (default)\nZsh 5.8.999.0 (Ubuntu)\nPam 0.7.1\nSudo 0.9.9\nGNUPG 2402 HFS+ RSA2041 (2048-bit) (GNUPG) 2.7.11 (Ubuntu)\n```"}
