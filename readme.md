@@ -147,7 +147,3 @@ The project demonstrates how input validation, system prompt protection, and out
 All five tested adversarial prompts were blocked by the defended application, while the ten legitimate test prompts were accepted.
  
 These results demonstrate improved protection for the tested cases, not immunity against every possible prompt-injection technique.
- 
-## 11. Disclaimer
- 
-This project was developed for educational and authorized security testing purposes. It is a local demonstration and is not intended as a production-ready security solution.
